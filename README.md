@@ -18,7 +18,7 @@ Este é o repositório do projeto "Amigo Secreto" desenvolvido como parte da par
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/amigo-secreto.git
+    git clone https://github.com/biancasuarz/amigo-secreto-oracle-one.git
     ```
 
 2. Navegue até o diretório do projeto:
